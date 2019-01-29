@@ -1,9 +1,9 @@
 {
   "name": "@groceristar/f2",
   "version": "1.0.0",
-  "description": "module to use grocery components between projects",
+  "description": "module to use soft transition into new version of fetch plugin",
   "main": "lib/index.js",
-  "repository": "https://github.com/GroceriStar/grocery-react-component",
+  "repository": "https://github.com/GroceriStar/fetch2",
   "author": "Arthur Tkachenko",
   "license": "MIT",
   "private": false,

@@ -35,7 +35,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@groceristar/groceristar-fetch": "^1.1.53",
+    "@groceristar/groceristar-fetch": "^1.1.57",
     "uuid": "^3.3.2"
   }
 }
